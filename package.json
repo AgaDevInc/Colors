@@ -1,0 +1,22 @@
+{
+  "name": "@agadev/colors",
+  "version": "1.0.0",
+  "description": "A simple package to add colors to your terminal",
+  "main": "lib/index.js",
+  "module": "lib/index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgaDevInc/Colors.git"
+  },
+  "keywords": [
+    "terminal",
+    "colors",
+    "aga"
+  ],
+  "author": "AgaDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AgaDevInc/Colors/issues"
+  },
+  "homepage": "https://github.com/AgaDevInc/Colors#readme"
+}

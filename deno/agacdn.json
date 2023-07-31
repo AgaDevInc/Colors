@@ -1,0 +1,10 @@
+{
+  "main": "index.ts",
+	"versions": {
+		"1.0.0": {
+			"index.ts": "",
+      "constants.ts": "",
+      "functions.ts": ""
+		}
+	}
+}
