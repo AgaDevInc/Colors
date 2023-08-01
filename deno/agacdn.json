@@ -2,9 +2,9 @@
   "main": "index.ts",
 	"versions": {
 		"1.0.0": {
-			"index.ts": "997b65cfb2a0832f5634403f5734001bbc0ecc5b",
+			"index.ts": "9a1593a3f5a03b6a346d2204d7faebb928aca78b",
       "constants.ts": "997b65cfb2a0832f5634403f5734001bbc0ecc5b",
-      "functions.ts": "997b65cfb2a0832f5634403f5734001bbc0ecc5b"
+      "functions.ts": "9a1593a3f5a03b6a346d2204d7faebb928aca78b"
 		}
 	}
 }
