@@ -1,4 +1,4 @@
-import { FONTS, Color } from "./constants.ts";
+import { FONTS, Color } from "https://agacdn.onrender.com/AgaDev:colors@1.0.0/constants.ts";
 
 type Base10 = 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9;
 type Base255STR = Base10 | `${Exclude<Base10, 0>}${Base10}` | `1${Base10}${Base10}` | `2${0 | 1 | 2 | 3 | 4}${Base10}` | `25${0 | 1 | 2 | 3 | 4 | 5}`;
