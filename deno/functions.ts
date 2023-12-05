@@ -12,7 +12,7 @@ type RGB_RED = RGB_ARG | [RGB_ARG, RGB_ARG, RGB_ARG];
  * @returns a boolean value.
  */
 export function ValidateColor(color: string): color is Color {
-	return /^\x1b\[[0-9;]*m$/.test(color);
+	return /^(\x1b\[[0-9;]*m)+$/.test(color);
 }
 
 /**
